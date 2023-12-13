@@ -1,0 +1,13 @@
+### Logs ###
+test-report/
+
+### Node ###
+node_modules/
+yarn-error.log
+
+### IDE ###
+.DS_Store
+.vscode
+.idea
+
+videos/
