@@ -17,3 +17,6 @@ Test credentials might be not valid
 ### How to run the tests on multiple devices
 Depending on the mobile test provider - it is possible to configure a workflow on Github and split the devices into reusable workflow, specifying the device configuration per workflow and passing the arguments as env variables.
 A current example is only using a single spec name.
+
+### Test data
+As for the demo purposes - extended feature file for different credentials
